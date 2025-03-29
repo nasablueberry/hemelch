@@ -5,9 +5,9 @@
 </p>
 
 <h3 align="center">
-🚀 CSE Undergrad at BRAC University | Tech Enthusiast | Creative Problem Solver  
-💡 Passionate about AI, Web Development, and Ethical Hacking  
-🎯 Always up for exciting discussions and learning new things!  
+ CSE Undergrad at BRAC University | Tech Enthusiast | Creative Problem Solver  
+ Passionate about AI, Web Development, and Ethical Hacking  
+ Always up for exciting discussions and learning new things!  
 </h3>
 
 ---
