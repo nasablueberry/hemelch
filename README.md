@@ -100,11 +100,8 @@
 </div>
 
 ---
-
 ### 🐍 Contribution Snake Animation
-<picture>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-contribution-grid-snake.svg" />
-</picture>
+![GitHub Snake](https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-contribution-grid-snake.svg)
 
 ---
 
