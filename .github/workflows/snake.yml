@@ -1,4 +1,4 @@
-name: Generate Snake Contribution Graph
+name: Generate Snake Contribution Grid
 
 on:
   schedule:
@@ -9,11 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake Game Contribution Grid
-        uses: Platane/graph-snake@v2
+        uses: Platane/snk@master
         with:
           github_user_name: nasablueberry
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - name: Push Contribution Grid Snake
         uses: crazy-max/ghaction-github-pages@v3
