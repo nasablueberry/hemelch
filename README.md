@@ -1,10 +1,19 @@
 <h1 align="center">Hey there! 👋 I'm Hemel Chowdhury</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;CSE+Undergrad+at+BRAC+University;Tech+Enthusiast+%7C+AI+%7C+MERN+Stack;Creative+Problem+Solver" />
+</p>
+
 <h3 align="center">
 🚀 CSE Undergrad at BRAC University | Tech Enthusiast | Creative Problem Solver  
 💡 Passionate about AI, Web Development, and Ethical Hacking  
 🎯 Always up for exciting discussions and learning new things!  
 </h3>
+
+---
+
+### **🌟 Fun Quote**
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
 
 ---
 
@@ -17,25 +26,59 @@
 
 ---
 
+### **🏆 GitHub Profile Trophy**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nasablueberry&theme=dracula&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### **📈 GitHub Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasablueberry&theme=tokyo-night" />
+</p>
+
+---
+
 ### **🚀 Tech Stack & Tools**
+#### **💻 Programming Languages**
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12"/>
+</div>
+
+#### **🛠️ Frameworks & Libraries**
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+</div>
+
+#### **🗄️ Databases**
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+</div>
+
+#### **⚙️ Tools & Version Control**
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
 
 ---
@@ -64,3 +107,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-snake.svg" />
 </picture>
+
+---
+
+### **👀 Visitor Counter**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nasablueberry&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
+</p>
