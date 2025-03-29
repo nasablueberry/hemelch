@@ -38,3 +38,4 @@ jobs:
           folder: dist
           clean: true
           commit-message: "Update snake animation [skip ci]"
+          #
